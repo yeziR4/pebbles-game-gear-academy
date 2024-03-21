@@ -1,0 +1,9 @@
+[package]
+name = "pebbles-game"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[dependencies]
+pebbles-game-io = { path = "io", version = "0.1.0" }
+
